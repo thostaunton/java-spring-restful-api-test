@@ -1,4 +1,4 @@
-# Hunter Six - Java Spring RESTful API
+# Hunter Six - Java Spring RESTful API Test
 
 ## How to build
 ```./gradlew clean build```
