@@ -7,6 +7,10 @@
 ```./gradlew test```
 
 ## Exercises
+Fork this project into your own github account and then complete the following exercises.  Provide a link to your forked github account to the person who emailed you the link to this test.
+
+Please commit little and often to your forked repo.
+
 ### Exercise 1
 Make the tests run green (there should be one failing test)
 
