@@ -7,13 +7,13 @@
 ```./gradlew test```
 
 ## Exercises
-Create a new empty project in your own github account, duplicate the code in this repo and then complete the following exercises within the project created in your own github account.  
+Create a new empty repo in your own github account, duplicate the code in this repo and then complete the following exercises within the repo created in your own github account.  
 
 *DO NOT FORK THIS PROJECT*
 
-Provide a link to your forked github account to the person who emailed you the link to this test.
+Provide a link to the repo in your github account to the person who emailed you the link to this test.
 
-Please commit little and often to your forked repo.
+Please commit little and often to your repo.
 
 ### Exercise 1
 Make the tests run green (there should be one failing test)
