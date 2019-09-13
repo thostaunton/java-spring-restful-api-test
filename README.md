@@ -7,7 +7,11 @@
 ```./gradlew test```
 
 ## Exercises
-Fork this project into your own github account and then complete the following exercises.  Provide a link to your forked github account to the person who emailed you the link to this test.
+Create a new empty project in your own github account, duplicate the code in this repo and then complete the following exercises within the project created in your own github account.  
+
+*DO NOT FORK THIS PROJECT*
+
+Provide a link to your forked github account to the person who emailed you the link to this test.
 
 Please commit little and often to your forked repo.
 
