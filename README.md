@@ -1,4 +1,4 @@
-# Hunter Six - Java Spring RESTful API
+# Hunter Six - Java Spring RESTful API Test
 
 This project uses both Gradle and Maven, for ease of use by the developer undertaking the assessment.
 
