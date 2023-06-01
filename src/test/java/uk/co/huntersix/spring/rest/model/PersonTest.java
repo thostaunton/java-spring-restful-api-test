@@ -12,6 +12,9 @@ public class PersonTest {
         assertNotNull(classUnderTest.getId());
     }
 
+    // Exercise 1
+    // The counter was not declared as static and as a result was creating a separate instance of counter per object
+    // therefore every person had the same ID.
     @Test
     public void idsShouldBeDifferent() {
         Person classUnderTest1 = new Person("John", "Smith");

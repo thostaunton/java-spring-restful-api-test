@@ -21,4 +21,15 @@ public class PersonDataService {
                 && p.getLastName().equalsIgnoreCase(lastName))
             .collect(Collectors.toList()).get(0);
     }
+    public List<Person> findPersonByLastName(String lastName) {
+        return PERSON_DATA.stream()
+                .filter(p -> p.getLastName().equalsIgnoreCase(lastName))
+                .collect(Collectors.toList());
+    }
+
+    public Person addPerson(Person person) {
+        PERSON_DATA.add(person);
+        return person;
+    }
+
 }
